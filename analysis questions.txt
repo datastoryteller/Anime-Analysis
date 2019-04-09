@@ -1,0 +1,23 @@
+What determines if an anime TV show is going to be highly rated? 
+1) How does # of episodes affect the rating of a show? 
+2) Which genres are the most highly rated? 
+3) How does the studio that publishes the show affect the raing of the show? 
+
+What factors affect if an anime Movie is going to be successful?
+
+1) How does duration affect rating?
+2) Is there a correlation between votes and ratings?
+3) How does the year of release affect rating?
+4) What tags are most effective for a movie?
+5) Which studio is the most successful in the movie industry?
+
+To create a successful anime today, what factors need to be adjusted?
+
+1) Which duration for an anime Movie is the most sucesssful for 2019?
+2) How many episodes should a successful 2019 anime have?
+3) Should you be trying to appeal for a large number of people or a small audience who are likely to enjoy it more and rate is highly?
+4) How can people who will rate the anime lowly be dettered from watching it?
+5) How should people who would rate the anime highly be attracted to the anime?
+6) What genres are most successful now?
+7) How has populatity of genres changed over time?
+8) How has the length\episodes of anime changed over time?
